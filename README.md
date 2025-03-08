@@ -116,5 +116,5 @@ Place `candidates.csv` in the `/csv` directory.
 - 🎮 **Tech Dominance**: Game Development & DevOps more hired
 
 ### 🌎 Geographic Shifts
-- **2021**: US hiring ↑ 40%
+- **2021**: USA hiring up
 - **Ecuador**: Consistently underperformed
