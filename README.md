@@ -110,14 +110,11 @@ Place `candidates.csv` in the `/csv` directory.
 **NOTE:** Although the charts are available in the notebook, they will be better visualized in a dashboard built with Power BI.
 
 ## 🔑 Key Insights
-### Hiring Trends 2021-2022
+### Hiring Trends 2018-2022
 - 🎯 **13.4% Hire Rate**: Only 6,700 candidates met hiring criteria
 - 📉 **2022 Hiring Collapse**: 50% reduction vs. previous years
-- 🎮 **Tech Dominance**: Game Development & DevOps = 62% of hires
+- 🎮 **Tech Dominance**: Game Development & DevOps more hired
 
 ### 🌎 Geographic Shifts
 - **2021**: US hiring ↑ 40%
 - **Ecuador**: Consistently underperformed
-
-### 👩‍💼 Entry-Level Preference
-- **Interns/Trainees**: 78% of hires
